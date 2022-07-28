@@ -13,3 +13,9 @@ class Rectangle extends Shape {
     return super.getCorner();
   }
 }
+
+void main() {
+  var rectangle = Rectangle();
+  
+
+}
